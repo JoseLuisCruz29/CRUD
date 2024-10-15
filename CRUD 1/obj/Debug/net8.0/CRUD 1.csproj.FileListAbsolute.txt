@@ -1,0 +1,33 @@
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\appsettings.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\CRUD 1.exe
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\CRUD 1.deps.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\CRUD 1.runtimeconfig.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\CRUD 1.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\CRUD 1.pdb
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.csproj.AssemblyReference.cache
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.AssemblyInfoInputs.cache
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.AssemblyInfo.cs
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.csproj.CoreCompileInputs.cache
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets\msbuild.CRUD 1.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD 1.props
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD 1.props
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD 1.props
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\scopedcss\bundle\CRUD 1.styles.css
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.csproj.Up2Date
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\refint\CRUD 1.dll
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.pdb
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\CRUD 1.genruntimeconfig.cache
+c:\Users\moran\OneDrive\Documentos\C#\Tareas\CRUD 1\obj\Debug\net8.0\ref\CRUD 1.dll
